@@ -1,0 +1,37 @@
+/* Style the whole page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+/* ID selector */
+#main-title {
+    color: rgb(0, 255, 200);
+    text-align: center;
+}
+
+/* Class selector */
+.intro {
+    font-size: 18px;
+    color: darkgreen;
+}
+
+/* Element selector */
+p {
+    line-height: 1.6;
+    color:red;
+    background-color:blue;
+}
+
+/* Button styling */
+button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+.be{
+     background-color: rgb(42, 209, 42);
+    color: rgb(39, 8, 216);
+}
